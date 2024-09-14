@@ -31,8 +31,15 @@
 *.out
 *.app
 
-# vs code configs
+# vs code things
 .vscode
+debug/
+venv/
+models/
+third_party/
 
 # Saved files
 *.txt
+*.csv
+*.joblib
+*.onnx
